@@ -132,7 +132,7 @@ gradient descent as illustrated below. For more information, please
 refers to the excellent book “Hands On Machine Learning with R” from
 Bradley Boehmke at <https://bradleyboehmke.github.io/HOML/gbm.html>
 
-<img src="\\gradient-descent-fig-1.png" alt="GB search" style="height: 300px; width:500px;"/>
+<img src="gradient-descent-fig-1.png" alt="GB search" style="height: 300px; width:500px;"/>
 
 ``` r
 # Transform variable into factors
