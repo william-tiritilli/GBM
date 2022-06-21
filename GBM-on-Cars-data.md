@@ -129,7 +129,7 @@ dta_tst$clm.count %>% table %>% prop.table %>% round(5)
 We focus on GBM to perform a stoachastic gradient boosting with decision
 trees. In other terms, the goal is to optimize the loss function using a
 gradient descent as illustrated below. For more information, please
-refers to the excellent book “Hands On Machine Learning with R”from
+refers to the excellent book “Hands On Machine Learning with R” from
 Bradley Boehmke at <https://bradleyboehmke.github.io/HOML/gbm.html>
 
 <img src="C:\\Users\William.Tiritilli\\Documents\\Project P\\GBM\\images\\gradient-descent-fig-1.png" alt="GB search" style="height: 300px; width:500px;"/>
